@@ -1,5 +1,6 @@
 # OS-Practical
-This is Operating System (CE354) practical.Output.pdf contain all the output screenshot of algorithms.
+This is Operating System (CE354) practical. 
+Output.pdf contain all the output screenshot of algorithms.
 
 Write a C program in LINUX to implement Process scheduling algorithms and compare. 
 
