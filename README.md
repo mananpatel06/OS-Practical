@@ -9,6 +9,8 @@ B. Shortest-Job-First (SJF) Scheduling (sjf.c)
 
 C. Priority Scheduling (Non-preemption) after completion extend on Preemption. (priority.c)
 
+D. Round Robin(RR) Scheduling (rr.c)
+
 Simulate Following Page Replacement Algorithms. 
 
 A. First In First Out Algorithm (f_in_f_out.c)
